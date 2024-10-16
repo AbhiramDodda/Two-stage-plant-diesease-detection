@@ -1,5 +1,6 @@
 # Two-stage-plant-diesease-detection
 In this repo a two stage plant disease detection is introduced which reduces time required for training and gives greater accuracy.
+### [Link to paper](https://www.researchgate.net/publication/384760701_A_Novel_Two-Stage_Deep_Learning_Framework_for_Plant_Disease_Detection)
 ### Classes of diseases in the dataset used are (also includes healthy plant specimen images):
 'Apple___Apple_scab',
  'Apple___Black_rot',
